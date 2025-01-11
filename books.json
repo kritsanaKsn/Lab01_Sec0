@@ -1,0 +1,63 @@
+[
+    {
+      "Code": "B001",
+      "Title": "JavaScript for Beginners",
+      "Cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmhQLxb2bPjXEYLeiAiAuGY3lnxhUJNCqTLA&s",
+      "Description": "Learn the basics of JavaScript.",
+      "Category": 1,
+      "Author": "John Doe",
+      "Publishing": "TechBooks",
+      "Price": "$20",
+      "Bestsellers": true,
+      "Suggestions": true
+    },
+    {
+      "Code": "B002",
+      "Title": "Advanced CSS",
+      "Cover": "https://m.media-amazon.com/images/I/51Wedby5jBL._AC_UF1000,1000_QL80_.jpg",
+      "Description": "Master CSS for modern web design.",
+      "Category": 2,
+      "Author": "Jane Smith",
+      "Publishing": "DesignBooks",
+      "Price": "$25",
+      "Bestsellers": false,
+      "Suggestions": true
+    },
+    {
+      "Code": "B003",
+      "Title": "Python Data Analysis",
+      "Cover": "https://bci.kinokuniya.com/jsp/images/book-img/97810/97810981/9781098104030.JPG",
+      "Description": "Analyze data efficiently with Python.",
+      "Category": 3,
+      "Author": "Alice Brown",
+      "Publishing": "DataBooks",
+      "Price": "$30",
+      "Bestsellers": true,
+      "Suggestions": false
+    },
+    {
+      "Code": "B004",
+      "Title": "React for Web Development",
+      "Cover": "https://bpbonline.com/cdn/shop/products/9789389423594.jpg?v=1672308883",
+      "Description": "Learn React to build interactive UIs.",
+      "Category": 4,
+      "Author": "Michael Lee",
+      "Publishing": "DevBooks",
+      "Price": "$22",
+      "Bestsellers": false,
+      "Suggestions": true
+    },
+    {
+      "Code": "B005",
+      "Title": "Node.js Essentials",
+      "Cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Uya93xcX7RK3bm6cdpSsiXTkSc6N6o_8Kw&s",
+      "Description": "Master backend development with Node.js.",
+      "Category": 5,
+      "Author": "Emma Wilson",
+      "Publishing": "BackendBooks",
+      "Price": "$28",
+      "Bestsellers": true,
+      "Suggestions": false
+    }
+  ]
+  
